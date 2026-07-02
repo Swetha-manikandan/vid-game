@@ -175,32 +175,21 @@ streamlit run app.py
 
 # Project Structure
 
-Video-Game-Sales-Analysis/
-
-   │
-   ├── app.py
-
-   ├── video_game_sales_cleaned.csv
-
-   ├── requirements.txt
-
-   ├── README.md
-
-   │
-   ├── screenshots/
-
-        ├── dashboard_home.png
-
-        ├── sales_trend.png
-
-        ├── top_games.png
-
-        ├── regional_sales.png
-
-        └── heatmap.png
-
-        │
-        └── assets/
+      Video-Game-Sales-Analysis/
+      │
+      ├── app.py
+      ├── video_game_sales_cleaned.csv
+      ├── requirements.txt
+      ├── README.md
+      │
+      ├── screenshots/
+           ├── dashboard_home.png
+           ├── sales_trend.png
+           ├── top_games.png
+           ├── regional_sales.png
+           └── heatmap.png
+           │
+           └── assets/
 
 ---
 
