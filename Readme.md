@@ -175,15 +175,21 @@ streamlit run app.py
 
 # Project Structure
 
-```
 Video-Game-Sales-Analysis/
 │
 ├── app.py
 ├── video_game_sales_cleaned.csv
 ├── requirements.txt
 ├── README.md
-└── screenshots/
-```
+│
+├── screenshots/
+│   ├── dashboard_home.png
+│   ├── sales_trend.png
+│   ├── top_games.png
+│   ├── regional_sales.png
+│   └── heatmap.png
+│
+└── assets/
 
 ---
 
@@ -220,6 +226,19 @@ Skills:
 - Matplotlib
 - Data Visualization
 - Business Analytics
+
+
+---
+
+# License
+
+Copyright (c) 2026 Swetha Manikandan
+
+Permission is granted to use, copy, modify, and distribute this project with proper credit to the author.
+
+This project is shared for learning and portfolio purposes only
+
+---
 
 ---
 
