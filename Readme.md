@@ -177,30 +177,30 @@ streamlit run app.py
 
 Video-Game-Sales-Analysis/
 
-│
-├── app.py
+   │
+   ├── app.py
 
-├── video_game_sales_cleaned.csv
+   ├── video_game_sales_cleaned.csv
 
-├── requirements.txt
+   ├── requirements.txt
 
-├── README.md
+   ├── README.md
 
-│
-├── screenshots/
+   │
+   ├── screenshots/
 
-   ├── dashboard_home.png
+        ├── dashboard_home.png
 
-   ├── sales_trend.png
+        ├── sales_trend.png
 
-   ├── top_games.png
+        ├── top_games.png
 
-   ├── regional_sales.png
+        ├── regional_sales.png
 
-   └── heatmap.png
+        └── heatmap.png
 
-│
-└── assets/
+        │
+        └── assets/
 
 ---
 
