@@ -37,19 +37,19 @@ This dashboard helps answer these business questions through interactive visuali
 ---
 
 # Dataset
+| **Column Name**                      | **Description**                                                                                                                   |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Game Name**                        | The title of the video game. This identifies the specific game being analyzed.                                                    |
+| **Platform**                         | The gaming platform on which the game was released (e.g., PlayStation, Xbox, Wii, PC, Nintendo DS).                               |
+| **Year**                             | The year in which the video game was officially released. This helps analyze sales trends over time.                              |
+| **Genre**                            | The category or type of the game, such as Action, Sports, Role-Playing, Adventure, Racing, Shooter, etc.                          |
+| **Publisher**                        | The company responsible for publishing and distributing the video game.                                                           |
+| **North America Sales (NA_Sales)**   | Total sales generated in the North American market, measured in **millions of units sold**.                                       |
+| **Europe Sales (EU_Sales)**          | Total sales generated in the European market, measured in **millions of units sold**.                                             |
+| **Japan Sales (JP_Sales)**           | Total sales generated in the Japanese market, measured in **millions of units sold**.                                             |
+| **Other Region Sales (Other_Sales)** | Total sales generated in all other regions outside North America, Europe, and Japan, measured in **millions of units sold**.      |
+| **Global Sales (Global_Sales)**      | The total worldwide sales of the game, calculated as the sum of sales across all regions, measured in **millions of units sold**. |
 
-The dataset contains historical video game sales information including:
-
-- Game Name
-- Platform
-- Year
-- Genre
-- Publisher
-- North America Sales
-- Europe Sales
-- Japan Sales
-- Other Region Sales
-- Global Sales
 
 ---
 
@@ -111,18 +111,6 @@ The dataset contains historical video game sales information including:
 - Business Insights
 - Business Recommendations
 
----
-
-# Key Performance Indicators (KPIs)
-
-- Total Games
-- Total Publishers
-- Total Platforms
-- Global Sales
-- North America Sales
-- Europe Sales
-- Japan Sales
-- Other Region Sales
 
 ---
 
@@ -201,16 +189,7 @@ Video-Game-Sales-Analysis/
 
 # Dashboard Preview
 
-- Dashboard Home
-![alt text](image-1.png)
-- KPI Cards
-![alt text](image-2.png)
-- Sales Trend
-![alt text](image-3.png)
-- Regional Sales
-
-- Correlation Heatmap
-- Business Insights
+![alt text](<WhatsApp Image 2026-07-02 at 11.26.34 AM.jpeg>)
 
 ---
 
