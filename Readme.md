@@ -185,18 +185,19 @@ Video-Game-Sales-Analysis/
 ├── requirements.txt
 
 ├── README.md
+
 │
 ├── screenshots/
 
-│   ├── dashboard_home.png
+   ├── dashboard_home.png
 
-│   ├── sales_trend.png
+   ├── sales_trend.png
 
-│   ├── top_games.png
+   ├── top_games.png
 
-│   ├── regional_sales.png
+   ├── regional_sales.png
 
-│   └── heatmap.png
+   └── heatmap.png
 
 │
 └── assets/
