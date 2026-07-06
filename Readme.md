@@ -80,16 +80,13 @@ This dashboard helps answer these business questions through interactive visuali
 
 ### Visualizations
 
-- Year-wise Global Sales Trend
-- Top 10 Best Selling Games
-- Top Platforms by Sales
-- Top Publishers
-- Genre Performance
-- Regional Sales Comparison
-- Regional Market Share (Pie Chart)
-- Games Released Per Year
-- Top Genres by Number of Games
-- Correlation Heatmap
+- Year-wise Global Sales Trend - HOW HAVE VIDEO GAMES SALES CHANGED OVERTIME?
+- Top 10 Best Selling Games - EASY TO COMPARE LONG GAME NAMES
+- Top Platforms by Sales - WHICH GAMING PLATFORMS GENERATED THE HIGHEST SALES?
+- Top Publishers - WHICH PUBLISHERS DOMINATE THE MARKET?
+- Genre Performance - WHICH HENRE ARE MOST POPULAR?
+- Regional Market Share (Pie Chart) - WHICH REGION CONTRIBUTES THE MOST SALES?
+- Games Released Per Year - SHOW RELEASE TRENDS
 
 ---
 
@@ -175,21 +172,21 @@ streamlit run app.py
 
 # Project Structure
 
-Video-Game-Sales-Analysis/
-│
-├── app.py
-├── video_game_sales_cleaned.csv
-├── requirements.txt
-├── README.md
-│
-├── screenshots/
-│   ├── dashboard_home.png
-│   ├── sales_trend.png
-│   ├── top_games.png
-│   ├── regional_sales.png
-│   └── heatmap.png
-│
-└── assets/
+      Video-Game-Sales-Analysis/
+      │
+      ├── app.py
+      ├── video_game_sales_cleaned.csv
+      ├── requirements.txt
+      ├── README.md
+      │
+      ├── screenshots/
+           ├── dashboard_home.png
+           ├── sales_trend.png
+           ├── top_games.png
+           ├── regional_sales.png
+           └── heatmap.png
+           │
+           └── assets/
 
 ---
 
